@@ -1,0 +1,202 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "_id": "6672912579754272757c4f16",
+      "firstName": "Naidu",
+      "lastName": "Kanuri",
+      "mobile": "9848885332",
+      "address": "AP & Hyderabad - 500055",
+      "email": "Naidu@gmail.com",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720089276/yiupduyuc1bg5np18cpz.png",
+      "password": "123456"
+    },
+    {
+      "_id": "66836d89f224c3cca97764d5",
+      "firstName": "Bharadwaj",
+      "lastName": "M",
+      "mobile": "854646",
+      "address": "Hyderabad",
+      "email": "Bharadwaj@gmail.com",
+      "password": "$2b$10$GQzzY0uq.BJhCEatqsLwr.JdfClYLtKKebu8luhh1JTScrPjFMIgO",
+      "__v": 0,
+      "loginToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjgzNmQ4OWYyMjRjM2NjYTk3NzY0ZDUiLCJpYXQiOjE3MTk4OTE4ODUsImV4cCI6MTcxOTk3ODI4NX0.4QrgvuemZ4ofMH73AauD3rDdkGEGRS-96PP-Hd1KjFg",
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1719933577/ujfysstvrwsmvxdk1c2m.png"
+    },
+    {
+      "_id": "668568f0e1176d758f10ba59",
+      "firstName": "Shravya",
+      "lastName": "chennuri",
+      "mobile": "8789747865",
+      "address": "Hyderabad",
+      "email": "chennuri@gmail.com",
+      "password": "$2b$10$bP4hOGboK/JBe2tZR7flqucKn30egM.9LTsjDVqezmIV/WC1G0xCO",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720019253/mikjpe3imonaefvgxidi.jpg"
+    },
+    {
+      "_id": "668569eee1176d758f10ba61",
+      "firstName": "Mark",
+      "lastName": "Zukerburg",
+      "mobile": "367848092387",
+      "address": "USA",
+      "email": "Zukerburg@gmail.com",
+      "password": "$2b$10$LsADgTSZGdizeYLKEwhhkOcNjYA3lK6.DxXotwOPlMoGEwAArK8.S",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720096011/anaoshnfchk3j6044tyn.png"
+    },
+    {
+      "_id": "668579dd60e4d0aa0d874d5f",
+      "firstName": "S",
+      "lastName": "Market",
+      "mobile": "787564545",
+      "address": "US",
+      "email": "mark@gmail.com",
+      "password": "$2b$10$caYBvxL6ZVIgkhfBlbBPguXeV2Y5P09riM99KmpYR6mwUGMKPOa3e",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720530094/vbefejfsg91notf7mcbk.png"
+    },
+    {
+      "_id": "66864cd2dcacf3aa171ce6a6",
+      "firstName": "madhuri",
+      "lastName": "xyz",
+      "mobile": "567898763",
+      "address": "hyd",
+      "email": "madhuri@gmail.com",
+      "password": "$2b$10$f1zs5xM8nCUELz0BMgeGbe09p8Y/6Y5Je1FvmG/.H5UQS.wqCIq4W",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720581182/cbsejcllkb1fpzrwexyz.png"
+    },
+    {
+      "_id": "66864e43dcacf3aa171ce6bc",
+      "firstName": "Ram",
+      "lastName": "bhukya",
+      "mobile": "7995475482",
+      "address": "DilshukNagar",
+      "email": "rambhukya4@gmail.com",
+      "password": "123456",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720583438/gg28huaobofescs3nuql.png"
+    },
+    {
+      "_id": "6686515adcacf3aa171ce6c1",
+      "firstName": "shirisha",
+      "lastName": "A",
+      "mobile": "356365665",
+      "address": "nakrekal",
+      "email": "ale@gmail.com",
+      "password": "$2b$10$HkjKp1kJpln8G8lteNToce/TgQnTGGFmuU7wN11dsd/5WkoVlE9Lq",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720078695/a6t2dgflkfvtnqglodwr.jpg"
+    },
+    {
+      "_id": "66866f9bbc33a1aaf9c281d8",
+      "firstName": "Dileep",
+      "lastName": " Dandannagari",
+      "mobile": "8798794598",
+      "address": "Kurnool  , andhra pradesh",
+      "email": "dileep@gmail.com",
+      "password": "$2b$10$JKyG6iCLocGWw76RjXQQg.N0Yk0RBf41pnZFyk/7Ptwn/AV.vf1nm",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720096549/ambvchrlx3dnulidozo1.jpg"
+    },
+    {
+      "_id": "6686978cef6f46a6e50845fe",
+      "firstName": "Raghu",
+      "lastName": " Siddagalla",
+      "mobile": "912184789",
+      "address": "Kurnool, Andhra Pradesh",
+      "email": "raghu@gmail.com",
+      "password": "123456",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720096670/c3b1rpwzi3r3x08u5sca.jpg"
+    },
+    {
+      "_id": "668d27cc8e14a5245f546d95",
+      "firstName": "Uday Prabas",
+      "lastName": "Kaitha",
+      "mobile": "25168465",
+      "address": "Suraram, Medchal",
+      "email": "Uday@gmail.com",
+      "password": "123456",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720529945/mjagv04oqlnbfkxh7obl.png"
+    },
+    {
+      "_id": "668d2a0f8e14a5245f546da4",
+      "firstName": "Kasani Tirumala",
+      "lastName": "Teja",
+      "mobile": "8518945121589652",
+      "address": "Kukatpally, Jntuh",
+      "email": "Teja@gmail.com",
+      "password": "123456",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720530045/a2jvehovyx3jsp5xuxjd.png"
+    },
+    {
+      "_id": "668d314b8e14a5245f546df6",
+      "firstName": "Venky",
+      "lastName": "Anke",
+      "mobile": "185184965",
+      "address": "Andhra",
+      "email": "Venky@gmail.com",
+      "password": "123456",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720530017/gfoz6vi30ahwpgfkgb7t.png"
+    },
+    {
+      "_id": "668d37908e14a5245f546e2a",
+      "firstName": "Raghu",
+      "lastName": " Siddagalla",
+      "mobile": "912184789",
+      "address": "Kurnool, AP",
+      "email": "raghu@gmail.com",
+      "password": "123456",
+      "__v": 0
+    },
+    {
+      "_id": "668dfdad9890615b1ddbe4b6",
+      "firstName": "Udhay",
+      "lastName": "Kaitha",
+      "mobile": "6305465943",
+      "address": "shirdi sai residency , F2 ,suraram village",
+      "email": "udhaykaitha575@gmail.com",
+      "password": "$2b$10$el4D9kvXD44V0aTTw0gvQ.t2ln7Uj/eOKANqoGKWuIltiGIl4ctyG",
+      "__v": 0
+    },
+    {
+      "_id": "668e047da2f66b030cd8ea15",
+      "firstName": "Hariram",
+      "lastName": "Hey Prabhu",
+      "mobile": "1231231234",
+      "address": "Assam",
+      "email": "krishn123@gmail.com",
+      "password": "$2b$10$wKOb0y1Jhn5Q.WaND3hy3ePQL68p3PHbT59IpMNo3esuG9ovnNpEm",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720583330/mls2tyh3pbzuiwoosiae.png"
+    },
+    {
+      "_id": "668e064ba2f66b030cd8ea1d",
+      "firstName": "Keerthi",
+      "lastName": "Suresh",
+      "mobile": "90528794738",
+      "address": "Chennai, Tamilnadu",
+      "email": "keerthi30@gmail.com",
+      "password": "$2b$10$nmT766v77kWzcv921duCOOb1yD53XE8rTvEOQyeGRX/H2HOpmq2hi",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720583810/ueqhfxohv6vz5qd7bipm.png"
+    },
+    {
+      "_id": "668e0717a2f66b030cd8ea24",
+      "firstName": "Devansh",
+      "lastName": "A",
+      "mobile": "8056724343",
+      "address": "Bangalore",
+      "email": "deva123@gmail.com",
+      "password": "123456",
+      "__v": 0,
+      "profilePic": "http://res.cloudinary.com/saikumar517/image/upload/v1720583982/v1lk7jhyywyl5q1ci6k7.png"
+    }
+  ]
+}
